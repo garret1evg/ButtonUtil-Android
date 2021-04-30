@@ -2,7 +2,7 @@ package ua.eugen.buttonutil
 
 import android.util.Log
 
-class Logger {
+class MyLogger {
     fun log(mess: String){
         Log.d("log_tag",mess)
     }
